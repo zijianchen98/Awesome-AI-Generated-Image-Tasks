@@ -8,3 +8,11 @@ A collection of **AI-generated images** papers and corresponding source code/dem
 > Feel free to create a PR or an issue.  (Pull Request is preferred)
 
 ![Fig](./example.jpg)
+
+**Outline**
+
+- [Text-to-Image]()
+- [Image Translation]()
+- [Image Inpainting]()
+- [Image Colorization]()
+- [Image Editing]()
