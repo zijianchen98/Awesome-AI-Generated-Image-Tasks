@@ -32,8 +32,10 @@ A collection of **AI-generated images** papers and corresponding source code/dem
 
 | Paper | Source | Code/Project Link |
 |---|---|---|
-|.   |.  |.  |
-|.   |.  |.   |
+|[DeepFaceDrawing: Deep generation of face images from sketches](https://dl.acm.org/doi/abs/10.1145/3386569.3392386)   |SIGGRAPH/TOG 2020 |[[project]](http://www.geometrylearning.com/DeepFaceDrawing/) [[code]](https://github.com/IGLICT/DeepFaceDrawing-Jittor) |
+|[CoCosNet: Cross-domain Correspondence Learning for Exemplar-based Image Translation](https://arxiv.org/abs/2004.05571)|CVPR 2020|[[project]](https://panzhang0212.github.io/CoCosNet/) [[code]](https://github.com/microsoft/CoCosNet)|
+|[CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_CoCosNet_v2_Full-Resolution_Correspondence_Learning_for_Image_Translation_CVPR_2021_paper.html)|CVPR 2021|[[code]](https://github.com/microsoft/CoCosNet-v2)|
+|[CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable and Controllable Text-Guided Face Manipulation](https://dl.acm.org/doi/abs/10.1145/3588432.3591532)|SIGGRAPH 2023|[[project]](https://chenliang-zhou.github.io/CLIP-PAE/) [[code]](https://github.com/Chenliang-Zhou/CLIP-PAE)   |
 
 
 ## 3. Image Inpainting
