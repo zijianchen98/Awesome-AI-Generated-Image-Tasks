@@ -16,3 +16,39 @@ A collection of **AI-generated images** papers and corresponding source code/dem
 - [Image Inpainting]()
 - [Image Colorization]()
 - [Image Editing]()
+
+
+## 1. Text-to-Image
+
+| Paper | Source | Code/Project Link |
+|---|---|---|
+|.   |.  |.  |
+|.   |.  |.   |
+
+
+
+## 2. Image Translation
+
+| Paper | Source | Code/Project Link |
+|---|---|---|
+|.   |.  |.  |
+|.   |.  |.   |
+
+
+## 3. Image Inpainting
+| Paper | Source | Code/Project Link |
+|---|---|---|
+|.   |.  |.  |
+|.   |.  |.   |
+
+## 4. Image Colorization
+| Paper | Source | Code/Project Link |
+|---|---|---|
+|.   |.  |.  |
+|.   |.  |.   |
+
+## 5. Image Editing
+| Paper | Source | Code/Project Link |
+|---|---|---|
+|[InstructPix2Pix: Learning to Follow Image Editing Instructions](http://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html) |CVPR2023 |[code](https://github.com/xuduo35/InstructPix2Pix)|
+|.   |.  |.   |
